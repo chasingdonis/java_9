@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-  document.getElementById("tabs").innerHTML = "Let's check out Exercise 9!";
+  document.getElementById("tabs").innerHTML = "Let's check out Assignment 9!";
     
   $('button').click(function(){
         $('p').text("Hello look at me!");
